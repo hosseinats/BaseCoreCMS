@@ -7,4 +7,4 @@ a simple Web API for site messages.
 
 Actually this project is a little part of my new project and probably I'll complete some parts of this project in future.
 
-So It just show my handwrit .
+So It's a sanple and just show my code handwriting for now.
