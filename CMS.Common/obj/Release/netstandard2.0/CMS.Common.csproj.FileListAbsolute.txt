@@ -1,0 +1,15 @@
+D:\Codes\CMS\CMS\CMS.Common\bin\Release\netstandard2.0\CMS.Common.deps.json
+D:\Codes\CMS\CMS\CMS.Common\bin\Release\netstandard2.0\CMS.Common.dll
+D:\Codes\CMS\CMS\CMS.Common\bin\Release\netstandard2.0\CMS.Common.pdb
+D:\Codes\CMS\CMS\CMS.Common\bin\Release\netstandard2.0\Microsoft.CSharp.dll
+D:\Codes\CMS\CMS\CMS.Common\bin\Release\netstandard2.0\Newtonsoft.Json.dll
+D:\Codes\CMS\CMS\CMS.Common\bin\Release\netstandard2.0\System.ComponentModel.Annotations.dll
+D:\Codes\CMS\CMS\CMS.Common\bin\Release\netstandard2.0\Newtonsoft.Json.xml
+D:\Codes\CMS\CMS\CMS.Common\bin\Release\netstandard2.0\System.ComponentModel.Annotations.xml
+D:\Codes\CMS\CMS\CMS.Common\obj\Release\netstandard2.0\CMS.Common.csprojAssemblyReference.cache
+D:\Codes\CMS\CMS\CMS.Common\obj\Release\netstandard2.0\CMS.Common.csproj.CoreCompileInputs.cache
+D:\Codes\CMS\CMS\CMS.Common\obj\Release\netstandard2.0\CMS.Common.AssemblyInfoInputs.cache
+D:\Codes\CMS\CMS\CMS.Common\obj\Release\netstandard2.0\CMS.Common.AssemblyInfo.cs
+D:\Codes\CMS\CMS\CMS.Common\obj\Release\netstandard2.0\CMS.Common.csproj.CopyComplete
+D:\Codes\CMS\CMS\CMS.Common\obj\Release\netstandard2.0\CMS.Common.dll
+D:\Codes\CMS\CMS\CMS.Common\obj\Release\netstandard2.0\CMS.Common.pdb

@@ -1,0 +1,16 @@
+D:\Codes\CMS\CMS\CMS.Services\bin\Release\netstandard2.0\CMS.Services.deps.json
+D:\Codes\CMS\CMS\CMS.Services\bin\Release\netstandard2.0\CMS.Services.dll
+D:\Codes\CMS\CMS\CMS.Services\bin\Release\netstandard2.0\CMS.Services.pdb
+D:\Codes\CMS\CMS\CMS.Services\bin\Release\netstandard2.0\CMS.Contracts.dll
+D:\Codes\CMS\CMS\CMS.Services\bin\Release\netstandard2.0\CMS.DataLayer.dll
+D:\Codes\CMS\CMS\CMS.Services\bin\Release\netstandard2.0\CMS.Entities.dll
+D:\Codes\CMS\CMS\CMS.Services\bin\Release\netstandard2.0\CMS.Contracts.pdb
+D:\Codes\CMS\CMS\CMS.Services\bin\Release\netstandard2.0\CMS.DataLayer.pdb
+D:\Codes\CMS\CMS\CMS.Services\bin\Release\netstandard2.0\CMS.Entities.pdb
+D:\Codes\CMS\CMS\CMS.Services\obj\Release\netstandard2.0\CMS.Services.csprojAssemblyReference.cache
+D:\Codes\CMS\CMS\CMS.Services\obj\Release\netstandard2.0\CMS.Services.csproj.CoreCompileInputs.cache
+D:\Codes\CMS\CMS\CMS.Services\obj\Release\netstandard2.0\CMS.Services.AssemblyInfoInputs.cache
+D:\Codes\CMS\CMS\CMS.Services\obj\Release\netstandard2.0\CMS.Services.AssemblyInfo.cs
+D:\Codes\CMS\CMS\CMS.Services\obj\Release\netstandard2.0\CMS.Services.csproj.CopyComplete
+D:\Codes\CMS\CMS\CMS.Services\obj\Release\netstandard2.0\CMS.Services.dll
+D:\Codes\CMS\CMS\CMS.Services\obj\Release\netstandard2.0\CMS.Services.pdb

@@ -1,0 +1,96 @@
+﻿
+@import url('../fonts/IRANSans/css/fontiran.css');
+
+body {
+    font-family: 'IRANSans', Tahoma;
+    font-size: 14px;
+    padding-bottom: 20px;
+    direction: rtl !important;
+    overflow-x: hidden;
+}
+.navbar {
+    border-bottom: 2px solid #3cb13c;
+}
+
+/*----LoginPag-------*/
+
+.all-page-height {
+    height: 90vh;
+    align-items: center;
+}
+.form-content {
+    position: relative;
+    /*text-align: center;*/
+    justify-content: center;
+}
+
+.img-container {
+    background-color: #FAFAFA;
+}
+.img-login {
+    max-width: 450px;
+}
+.External-Login {
+    width: 25px;
+}
+.ForgetPass{
+   font-size:13px;
+   text-decoration:none;
+   margin-right:20px;
+}
+/*-------------*/
+.field-validation-error {
+    color: #e42f2f;
+}
+.g-recaptcha {
+    transform: scale(0.77);
+    -webkit-transform: scale(0.77);
+    transform-origin: right top;
+    -webkit-transform-origin: right top;
+}
+
+/***BootStrap4*****/
+.dropdown-menu{
+    font-size:14px;
+}
+
+/*******mainpage********/
+.head {
+    border-bottom: 2px solid #3cb13c;
+}
+
+.mainbox {
+    /*border: 1px solid #ccc;
+    box-shadow: 0px 0px 1px;*/
+}
+
+
+.head-search {
+    border: 1px solid #d7d7d7;
+    border-radius: 3px;
+}
+
+  .head-search .text-search {
+        border: none;
+        font-size: 12px;
+        box-shadow: none;
+        padding: 2px;
+        position: relative;
+    }
+
+
+
+.form-control::placeholder {
+    direction: rtl;
+    text-align: right;
+    font-size:14px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    line-height: 60px;
+    background-color: #f5f5f5;
+    margin:0px;
+}

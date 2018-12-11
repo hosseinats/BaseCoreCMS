@@ -1,0 +1,9 @@
+D:\Codes\CMS\CMS\CMS.Entities\bin\Release\netstandard2.0\CMS.Entities.deps.json
+D:\Codes\CMS\CMS\CMS.Entities\bin\Release\netstandard2.0\CMS.Entities.dll
+D:\Codes\CMS\CMS\CMS.Entities\bin\Release\netstandard2.0\CMS.Entities.pdb
+D:\Codes\CMS\CMS\CMS.Entities\obj\Release\netstandard2.0\CMS.Entities.csprojAssemblyReference.cache
+D:\Codes\CMS\CMS\CMS.Entities\obj\Release\netstandard2.0\CMS.Entities.csproj.CoreCompileInputs.cache
+D:\Codes\CMS\CMS\CMS.Entities\obj\Release\netstandard2.0\CMS.Entities.AssemblyInfoInputs.cache
+D:\Codes\CMS\CMS\CMS.Entities\obj\Release\netstandard2.0\CMS.Entities.AssemblyInfo.cs
+D:\Codes\CMS\CMS\CMS.Entities\obj\Release\netstandard2.0\CMS.Entities.dll
+D:\Codes\CMS\CMS\CMS.Entities\obj\Release\netstandard2.0\CMS.Entities.pdb

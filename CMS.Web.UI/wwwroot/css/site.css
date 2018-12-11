@@ -1,0 +1,10 @@
+﻿
+@import url('../fonts/IRANSans/css/fontiran.css');
+
+body {
+    font-family: 'IRANSans', Tahoma;
+    font-size: 14px;
+    padding-bottom: 20px;
+    direction: rtl !important;
+    overflow-x: hidden;
+}

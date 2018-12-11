@@ -1,0 +1,39 @@
+﻿@*@model IEnumerable<CMS.DTO.SiteMessageDTO>*@
+@model CMS.DTO.SiteMessageDTO
+@{
+    ViewData["Title"] = "تماس با سایت";
+}
+
+@if (ViewBag.Msg != null)
+{
+    <span class="alert alert-succss">با موفقیت  ارسال شد</span>
+}
+@*@foreach (var item in Model)
+    {
+        @item.MessageDate
+        @item.MessageText
+    }*@
+    
+
+    <form id="ContactForm" asp-antiforgery="true" method="post" asp-action="Contact" asp-controller="Home">
+        <div class="row form-group  ">
+            <div class="col-sm-12 mb-2 mb-sm-0">
+                <input asp-for="MessageTitle" class="form-control " type="text" placeholder="عنوان ">
+                <span asp-validation-for="MessageTitle"></span>
+            </div>
+        </div>
+        <div class="row form-group">
+            <div class="col-sm-12 mb-2 mb-sm-0">
+                <textarea asp-for="MessageText" class="form-control " placeholder="متن پیام" ></textarea>
+                <span asp-validation-for="MessageText"></span>
+            </div>
+
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12">
+                <button id="btnSubmitTag" type="submit" class="btn btn-lg btn-primary w-100"> ارسال پیام </button>
+            </div>
+        </div>
+
+    </form>

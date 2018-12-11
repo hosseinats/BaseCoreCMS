@@ -1,0 +1,12 @@
+D:\Codes\CMS\CMS\CMS.DTO\bin\Release\netstandard2.0\CMS.DTO.deps.json
+D:\Codes\CMS\CMS\CMS.DTO\bin\Release\netstandard2.0\CMS.DTO.dll
+D:\Codes\CMS\CMS\CMS.DTO\bin\Release\netstandard2.0\CMS.DTO.pdb
+D:\Codes\CMS\CMS\CMS.DTO\bin\Release\netstandard2.0\CMS.Entities.dll
+D:\Codes\CMS\CMS\CMS.DTO\bin\Release\netstandard2.0\CMS.Entities.pdb
+D:\Codes\CMS\CMS\CMS.DTO\obj\Release\netstandard2.0\CMS.DTO.csprojAssemblyReference.cache
+D:\Codes\CMS\CMS\CMS.DTO\obj\Release\netstandard2.0\CMS.DTO.csproj.CoreCompileInputs.cache
+D:\Codes\CMS\CMS\CMS.DTO\obj\Release\netstandard2.0\CMS.DTO.AssemblyInfoInputs.cache
+D:\Codes\CMS\CMS\CMS.DTO\obj\Release\netstandard2.0\CMS.DTO.AssemblyInfo.cs
+D:\Codes\CMS\CMS\CMS.DTO\obj\Release\netstandard2.0\CMS.DTO.csproj.CopyComplete
+D:\Codes\CMS\CMS\CMS.DTO\obj\Release\netstandard2.0\CMS.DTO.dll
+D:\Codes\CMS\CMS\CMS.DTO\obj\Release\netstandard2.0\CMS.DTO.pdb

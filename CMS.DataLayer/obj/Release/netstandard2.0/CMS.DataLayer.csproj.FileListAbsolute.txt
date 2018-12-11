@@ -1,0 +1,12 @@
+D:\Codes\CMS\CMS\CMS.DataLayer\bin\Release\netstandard2.0\CMS.DataLayer.deps.json
+D:\Codes\CMS\CMS\CMS.DataLayer\bin\Release\netstandard2.0\CMS.DataLayer.dll
+D:\Codes\CMS\CMS\CMS.DataLayer\bin\Release\netstandard2.0\CMS.DataLayer.pdb
+D:\Codes\CMS\CMS\CMS.DataLayer\bin\Release\netstandard2.0\CMS.Entities.dll
+D:\Codes\CMS\CMS\CMS.DataLayer\bin\Release\netstandard2.0\CMS.Entities.pdb
+D:\Codes\CMS\CMS\CMS.DataLayer\obj\Release\netstandard2.0\CMS.DataLayer.csprojAssemblyReference.cache
+D:\Codes\CMS\CMS\CMS.DataLayer\obj\Release\netstandard2.0\CMS.DataLayer.csproj.CoreCompileInputs.cache
+D:\Codes\CMS\CMS\CMS.DataLayer\obj\Release\netstandard2.0\CMS.DataLayer.AssemblyInfoInputs.cache
+D:\Codes\CMS\CMS\CMS.DataLayer\obj\Release\netstandard2.0\CMS.DataLayer.AssemblyInfo.cs
+D:\Codes\CMS\CMS\CMS.DataLayer\obj\Release\netstandard2.0\CMS.DataLayer.csproj.CopyComplete
+D:\Codes\CMS\CMS\CMS.DataLayer\obj\Release\netstandard2.0\CMS.DataLayer.dll
+D:\Codes\CMS\CMS\CMS.DataLayer\obj\Release\netstandard2.0\CMS.DataLayer.pdb

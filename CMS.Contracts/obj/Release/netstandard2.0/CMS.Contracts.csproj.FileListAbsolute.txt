@@ -1,0 +1,12 @@
+D:\Codes\CMS\CMS\CMS.Contracts\bin\Release\netstandard2.0\CMS.Contracts.deps.json
+D:\Codes\CMS\CMS\CMS.Contracts\bin\Release\netstandard2.0\CMS.Contracts.dll
+D:\Codes\CMS\CMS\CMS.Contracts\bin\Release\netstandard2.0\CMS.Contracts.pdb
+D:\Codes\CMS\CMS\CMS.Contracts\bin\Release\netstandard2.0\CMS.Entities.dll
+D:\Codes\CMS\CMS\CMS.Contracts\bin\Release\netstandard2.0\CMS.Entities.pdb
+D:\Codes\CMS\CMS\CMS.Contracts\obj\Release\netstandard2.0\CMS.Contracts.csprojAssemblyReference.cache
+D:\Codes\CMS\CMS\CMS.Contracts\obj\Release\netstandard2.0\CMS.Contracts.csproj.CoreCompileInputs.cache
+D:\Codes\CMS\CMS\CMS.Contracts\obj\Release\netstandard2.0\CMS.Contracts.AssemblyInfoInputs.cache
+D:\Codes\CMS\CMS\CMS.Contracts\obj\Release\netstandard2.0\CMS.Contracts.AssemblyInfo.cs
+D:\Codes\CMS\CMS\CMS.Contracts\obj\Release\netstandard2.0\CMS.Contracts.csproj.CopyComplete
+D:\Codes\CMS\CMS\CMS.Contracts\obj\Release\netstandard2.0\CMS.Contracts.dll
+D:\Codes\CMS\CMS\CMS.Contracts\obj\Release\netstandard2.0\CMS.Contracts.pdb

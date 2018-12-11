@@ -1,0 +1,150 @@
+.notifyjs-metro-base {
+    position: relative;
+    min-height: 52px;
+    /*min-width: 500px;*/
+    min-width: 250px;
+    color: #444;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.2);
+}
+
+.notifyjs-metro-base .image {
+    display: table;
+    position: absolute;
+    height: auto;
+    width: auto;
+    right: 5px;
+    top: 50%;
+    font-size: 24px;
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.notifyjs-metro-base .text-wrapper {
+    display: inline-block;
+    font-size:14px;
+    vertical-align: top;
+    text-align: right;
+	direction:rtl;
+    margin: 10px 52px 10px 10px;
+    clear: both;
+    /*float:right;*/
+}
+
+.notifyjs-metro-base .title {
+    font-size: 15px;
+    line-height: 20px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-family: inherit;
+}
+
+    .notifyjs-metro-base .text {
+        font-size: 14px;
+        /*font-size: 12px;*/
+        font-weight: bold;
+        /*font-weight: normal;*/
+        max-width: 360px;
+        vertical-align: middle;
+        text-align: right;
+    }
+
+.notifyjs-metro-nonspaced{
+    min-height: 22px;
+}
+
+.notifyjs-metro-nonspaced  .text-wrapper{
+    margin: 5px 5px 8px 8px;
+}
+/*-------------------------------------------------------------------*/
+.notifyjs-corner {
+    position: fixed;
+    margin: 5px;
+    z-index: 1050;
+}
+
+.notifyjs-wrapper {
+    z-index: 1;
+    position: absolute;
+    display: inline-block;
+    height: 0;
+    width: 0;
+}
+
+
+.notifyjs-arrow {
+    position: absolute;
+    z-index: 2;
+    width: 0;
+    height: 0;
+}
+
+.notifyjs-corner .notifyjs-wrapper, .notifyjs-corner .notifyjs-container {
+    position: relative;
+    display: block;
+    height: inherit;
+    width: inherit;
+    margin: 3px;
+}
+
+.notifyjs-container {
+    display: none;
+    z-index: 1;
+    position: absolute;
+    cursor: pointer;
+}
+
+
+[data-notify-text], [data-notify-html] {
+    position: relative;
+}
+
+.notifyjs-metro-base.notifyjs-metro-success {
+}
+
+/*style-----------------------------------------*/
+.notifyjs-metro-error {
+    color: #fafafa !important;
+    background-color: #E15554;
+    border: 1px solid #E15554;
+}
+
+.notifyjs-metro-success {
+    color: #fafafa !important;
+    background-color: #68C39F;
+    border: 1px solid #68C39F;
+}
+
+.notifyjs-metro-info {
+    color: #fafafa !important;
+    background-color: #65BBD6;
+    border: 1px solid #65BBD6;
+}
+
+.notifyjs-metro-warning {
+    color: #fafafa !important;
+    background-color: #FFC052;
+    border: 1px solid #FFC052;
+}
+
+.notifyjs-metro-cool {
+    color: #fafafa !important;
+    background-color: #4A525F;
+    border: 1px solid #4A525F;
+}
+
+.notifyjs-metro-nonspaced {
+    color: #fafafa !important;
+    background-color: #4A525F;
+    min-width: 150px;
+    border: 1px solid #4A525F;
+}
+
+
+
+/*-------------------------------------------------------*/
+
